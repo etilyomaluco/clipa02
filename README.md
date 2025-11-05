@@ -3,4 +3,4 @@
 #Meu primeiro projeto
 
 Este é o repositório de introdução que criei seguindo a atividade guiada.
-**Versão A: A branch principal diz que o projeto é fundamental!**
+**Versão B: A branch de teste diz que o projeto é experimental.**
